@@ -1,0 +1,6 @@
+{
+  "name": "VulkanDOS Breakout Engine",
+  "description": "Motor gráfico multiplataforma de baja latencia estilo Vulkan/Metal con Breakout retro MS-DOS de 24 niveles, joystick táctil adaptativo y evaluación cognitiva óculo-manual en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
